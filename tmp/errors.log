@@ -1,0 +1,45 @@
+[01-Jun-2016 14:15:33 Europe/Berlin] ::session.inc:439:[before upgrade] include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[01-Jun-2016 14:15:33 Europe/Berlin] ::session.inc:439:[before upgrade] include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='C:\xampp\php\PEAR')
+[01-Jun-2016 14:15:33 Europe/Berlin] ::current_user.inc:686:[before upgrade] Invalid argument supplied for foreach()
+[01-Jun-2016 14:15:33 Europe/Berlin] ::current_user.inc:686:[before upgrade] Invalid argument supplied for foreach()
+[01-Jun-2016 14:15:33 Europe/Berlin] 0::session.inc:489:[before upgrade] include(./company/0/installed_extensions.php): failed to open stream: No such file or directory
+[01-Jun-2016 14:15:33 Europe/Berlin] 0::session.inc:489:[before upgrade] include(): Failed opening './company/0/installed_extensions.php' for inclusion (include_path='C:\xampp\php\PEAR')
+[01-Jun-2016 14:15:33 Europe/Berlin] 0::hooks.inc:239:[before upgrade] Invalid argument supplied for foreach()
+[01-Jun-2016 14:15:33 Europe/Berlin] 0::current_user.inc:730:[before upgrade] opendir(./company/0/js_cache/0,./company/0/js_cache/0): The system cannot find the file specified. (code: 2)
+[01-Jun-2016 14:15:33 Europe/Berlin] 0::current_user.inc:730:[before upgrade] opendir(./company/0/js_cache/0): failed to open dir: No such file or directory
+[01-Jun-2016 14:18:36 Europe/Berlin] 0::session.inc:439:[before upgrade] include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[01-Jun-2016 14:18:36 Europe/Berlin] 0::session.inc:439:[before upgrade] include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='C:\xampp\php\PEAR')
+[01-Jun-2016 14:18:39 Europe/Berlin] 0::session.inc:439:[before upgrade] include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[01-Jun-2016 14:18:39 Europe/Berlin] 0::session.inc:439:[before upgrade] include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='C:\xampp\php\PEAR')
+[01-Jun-2016 14:18:39 Europe/Berlin] 0:admin:current_user.inc:730: opendir(./company/0/js_cache/1,./company/0/js_cache/1): The system cannot find the file specified. (code: 2)
+[01-Jun-2016 14:18:39 Europe/Berlin] 0:admin:current_user.inc:730: opendir(./company/0/js_cache/1): failed to open dir: No such file or directory
+[01-Jun-2016 14:19:52 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[01-Jun-2016 14:20:33 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[01-Jun-2016 14:22:16 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[01-Jun-2016 14:47:39 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[01-Jun-2016 14:48:06 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[02-Jun-2016 04:11:31 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 04:11:37 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 04:17:32 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 04:23:30 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 04:31:00 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 04:41:43 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 04:42:18 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 04:43:44 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 04:45:17 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 04:53:27 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 05:00:21 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[02-Jun-2016 05:00:50 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[02-Jun-2016 05:31:18 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 07:11:34 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 07:14:25 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[02-Jun-2016 10:53:46 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[02-Jun-2016 10:53:50 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[02-Jun-2016 10:54:01 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[02-Jun-2016 10:54:55 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[02-Jun-2016 11:46:38 Europe/Berlin] 0:admin:class.mail.inc:149: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+[02-Jun-2016 11:46:39 Europe/Berlin] 0:admin:class.mail.inc:149: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+[02-Jun-2016 11:46:40 Europe/Berlin] 0:admin:class.mail.inc:149: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+[02-Jun-2016 11:49:54 Europe/Berlin] 0:admin:class.mail.inc:149: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+[02-Jun-2016 15:06:56 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[02-Jun-2016 15:21:39 Europe/Berlin] 0:admin:class.mail.inc:149: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
